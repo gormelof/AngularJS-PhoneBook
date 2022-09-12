@@ -1,6 +1,4 @@
-AngularJS-PhoneBook
+Learning Angular JS - PhoneBook
 ===================
 
-Phonebook with AngularJS.
-
-Phonebook application is simple AngularJS.
+This is a simple project that is for the learn AngularJS.
